@@ -1,5 +1,6 @@
-
 def main():
+    x = 1 + 2
+    print(x)
     print("Hello from DSC190!")
 
 
